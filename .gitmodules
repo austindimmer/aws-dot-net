@@ -103,3 +103,9 @@
 [submodule "ReactiveUI.Samples"]
 	path = ReactiveUI.Samples
 	url = https://github.com/reactiveui/ReactiveUI.Samples.git
+[submodule "dot-net-docmentation-samples"]
+	path = dot-net-docmentation-samples
+	url = https://github.com/dotnet/samples.git
+[submodule "dotnet-docker"]
+	path = dotnet-docker
+	url = https://github.com/dotnet/dotnet-docker.git
