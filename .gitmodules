@@ -58,3 +58,48 @@
 [submodule "comprehend-medical-samples"]
 	path = comprehend-medical-samples
 	url = https://github.com/aws-samples/comprehend-medical-samples.git
+[submodule "aws-apigateway-lambda-authorizer-blueprints"]
+	path = aws-apigateway-lambda-authorizer-blueprints
+	url = https://github.com/awslabs/aws-apigateway-lambda-authorizer-blueprints.git
+[submodule "aws-alb-identity-aspnetcore"]
+	path = aws-alb-identity-aspnetcore
+	url = https://github.com/awslabs/aws-alb-identity-aspnetcore.git
+[submodule "CSharp-8.0-and-.NET-Core-3.0-Modern-Cross-Platform-Development-Fourth-Edition"]
+	path = CSharp-8.0-and-.NET-Core-3.0-Modern-Cross-Platform-Development-Fourth-Edition
+	url = https://github.com/PacktPublishing/CSharp-8.0-and-.NET-Core-3.0-Modern-Cross-Platform-Development-Fourth-Edition.git
+[submodule "EfCoreInAction"]
+	path = EfCoreInAction
+	url = https://github.com/JonPSmith/EfCoreInAction.git
+[submodule "pro-ef-core-2-for-asp.net-core-mvc"]
+	path = pro-ef-core-2-for-asp.net-core-mvc
+	url = https://github.com/Apress/pro-ef-core-2-for-asp.net-core-mvc.git
+[submodule "modern-data-access-w-entity-framework-core"]
+	path = modern-data-access-w-entity-framework-core
+	url = https://github.com/Apress/modern-data-access-w-entity-framework-core.git
+[submodule "Mastering-ASP.NET-Core-2.0"]
+	path = Mastering-ASP.NET-Core-2.0
+	url = https://github.com/PacktPublishing/Mastering-ASP.NET-Core-2.0.git
+[submodule "C-8-and-.NET-Core-3-Projects-Using-Azure-Second-Edition"]
+	path = C-8-and-.NET-Core-3-Projects-Using-Azure-Second-Edition
+	url = https://github.com/PacktPublishing/C-8-and-.NET-Core-3-Projects-Using-Azure-Second-Edition.git
+[submodule "Learn-ASP.NET-Core-3-Second-Edition"]
+	path = Learn-ASP.NET-Core-3-Second-Edition
+	url = https://github.com/PacktPublishing/Learn-ASP.NET-Core-3-Second-Edition.git
+[submodule "asp-dot-net-core-in-action"]
+	path = asp-dot-net-core-in-action
+	url = https://github.com/andrewlock/asp-dot-net-core-in-action.git
+[submodule "ASP.NET-Core-3-and-React"]
+	path = ASP.NET-Core-3-and-React
+	url = https://github.com/PacktPublishing/ASP.NET-Core-3-and-React.git
+[submodule "CSharp-and-.NET-Core-Test-Driven-Development"]
+	path = CSharp-and-.NET-Core-Test-Driven-Development
+	url = https://github.com/PacktPublishing/CSharp-and-.NET-Core-Test-Driven-Development.git
+[submodule "net5-samples"]
+	path = net5-samples
+	url = https://github.com/xamarin/net5-samples.git
+[submodule "maui"]
+	path = maui
+	url = https://github.com/dotnet/maui.git
+[submodule "ReactiveUI.Samples"]
+	path = ReactiveUI.Samples
+	url = https://github.com/reactiveui/ReactiveUI.Samples.git
