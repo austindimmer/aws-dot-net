@@ -1,0 +1,60 @@
+[submodule "aws-netcoreapi-aurora-cdk"]
+	path = aws-netcoreapi-aurora-cdk
+	url = https://github.com/aws-samples/aws-netcoreapi-aurora-cdk.git
+[submodule "amazon-cloudwatch-prometheus-metrics-sample"]
+	path = amazon-cloudwatch-prometheus-metrics-sample
+	url = https://github.com/aws-samples/amazon-cloudwatch-prometheus-metrics-sample.git
+[submodule "aws-codepipeline-dotnet-lambda"]
+	path = aws-codepipeline-dotnet-lambda
+	url = https://github.com/aws-samples/aws-codepipeline-dotnet-lambda.git
+[submodule "aws-netcore-app-using-batch"]
+	path = aws-netcore-app-using-batch
+	url = https://github.com/aws-samples/aws-netcore-app-using-batch.git
+[submodule "amazon-textract-code-samples"]
+	path = amazon-textract-code-samples
+	url = https://github.com/aws-samples/amazon-textract-code-samples.git
+[submodule "aws-net-guides"]
+	path = aws-net-guides
+	url = https://github.com/aws-samples/aws-net-guides.git
+[submodule "amazon-ecs-fargate-aspnetcore"]
+	path = amazon-ecs-fargate-aspnetcore
+	url = https://github.com/aws-samples/amazon-ecs-fargate-aspnetcore.git
+[submodule "cloudmosaic-dotnet"]
+	path = cloudmosaic-dotnet
+	url = https://github.com/aws-samples/cloudmosaic-dotnet.git
+[submodule "aws-xray-dotnet-webapp"]
+	path = aws-xray-dotnet-webapp
+	url = https://github.com/aws-samples/aws-xray-dotnet-webapp.git
+[submodule "aws-cognito-dot-net-desktop-app"]
+	path = aws-cognito-dot-net-desktop-app
+	url = https://github.com/aws-samples/aws-cognito-dot-net-desktop-app.git
+[submodule "amazon-sagemaker-deepar-retail"]
+	path = amazon-sagemaker-deepar-retail
+	url = https://github.com/aws-samples/amazon-sagemaker-deepar-retail.git
+[submodule "aws-iot-core-dotnet-app-mqtt-over-websockets-sigv4"]
+	path = aws-iot-core-dotnet-app-mqtt-over-websockets-sigv4
+	url = https://github.com/aws-samples/aws-iot-core-dotnet-app-mqtt-over-websockets-sigv4.git
+[submodule "aws-iot-core-http-sigv4-dotnet-app"]
+	path = aws-iot-core-http-sigv4-dotnet-app
+	url = https://github.com/aws-samples/aws-iot-core-http-sigv4-dotnet-app.git
+[submodule "aws-iot-dotnet-publisher-http"]
+	path = aws-iot-dotnet-publisher-http
+	url = https://github.com/aws-samples/aws-iot-dotnet-publisher-http.git
+[submodule "iot-dotnet-publisher-consumer"]
+	path = iot-dotnet-publisher-consumer
+	url = https://github.com/aws-samples/iot-dotnet-publisher-consumer.git
+[submodule "amazon-cognito-aspnetcore-webapp-for-serverless"]
+	path = amazon-cognito-aspnetcore-webapp-for-serverless
+	url = https://github.com/aws-samples/amazon-cognito-aspnetcore-webapp-for-serverless.git
+[submodule "cookiecutter-aws-sam-dotnet"]
+	path = cookiecutter-aws-sam-dotnet
+	url = https://github.com/aws-samples/cookiecutter-aws-sam-dotnet.git
+[submodule "amazon-sagemaker-custom-object-detection"]
+	path = amazon-sagemaker-custom-object-detection
+	url = https://github.com/aws-samples/amazon-sagemaker-custom-object-detection.git
+[submodule "aws-serverless-workshop-decoupled-architecture"]
+	path = aws-serverless-workshop-decoupled-architecture
+	url = https://github.com/aws-samples/aws-serverless-workshop-decoupled-architecture.git
+[submodule "comprehend-medical-samples"]
+	path = comprehend-medical-samples
+	url = https://github.com/aws-samples/comprehend-medical-samples.git
