@@ -109,3 +109,6 @@
 [submodule "dotnet-docker"]
 	path = dotnet-docker
 	url = https://github.com/dotnet/dotnet-docker.git
+[submodule "pro-asp.net-core-mvc-2"]
+	path = pro-asp.net-core-mvc-2
+	url = https://github.com/Apress/pro-asp.net-core-mvc-2.git

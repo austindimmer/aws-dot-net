@@ -68,5 +68,7 @@ dotnet tool install -g TemplateVersions.Tool
 dotnet tool install -g dotnet-xscgen
 # https://github.com/natemcmaster/xunit-cli
 dotnet tool install -g xunit-cli
+# https://github.com/aspnet/LibraryManager Install and consume 3rd-party client-side libraries with ease.
+dotnet tool install --global Microsoft.Web.LibraryManager.Cli
 
 
